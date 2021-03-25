@@ -137,6 +137,8 @@ div.da-item.item-3HknzM.item-PXvHYJ {
 /* Context menus & search menu */
 .theme-dark {
 	--background-floating: #17101b;
+	/* --background-tertiary: #202225; 
+	*/
 }
 .theme-dark .searchResultsWrap-2DKFzt, .theme-dark .searchHeader-1l-wpR, .theme-dark .channelSeparator-1X1FuH .channelName-1QajIf, .theme-dark .searchResult-3pzFAB .searchResultMessage-2VxO12.hit-NLlWXA, .theme-dark .searchResult-3pzFAB.expanded-v2Szsz .searchResultMessage-2VxO12.hit-NLlWXA {
 	background-color: #16101b;
@@ -612,8 +614,4 @@ background: rgba(0, 0, 0, 0.18) !important;
 
 .bd-addon-list .bd-addon-header {
 	background: rgba(47, 27, 49, 0.28);
-}
-.theme-dark {
-	    /* --background-tertiary: #202225; 
-	*/
 }
