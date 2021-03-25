@@ -613,3 +613,6 @@ background: rgba(0, 0, 0, 0.18) !important;
 .bd-addon-list .bd-addon-header {
 	background: rgba(47, 27, 49, 0.28);
 }
+.theme-dark {
+	--background-tertiary: transparant;
+}
