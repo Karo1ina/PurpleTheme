@@ -38,6 +38,7 @@
 	--background-secondary: transparent;
 	--background-tertiary: transparent;	
 	--background-floating: #17101b;
+	--background-accent: #3f2e44;
 }
 
 
@@ -229,9 +230,10 @@ div.da-item.item-3HknzM.item-PXvHYJ {
 	background-color: rgb(219, 116, 215);
 }
 /* Unread messages on top of the channel */
-.newMessagesBar-mujexs {
+.newMessagesBar-265mhP {
 	background-color: rgba(153, 5, 141, 1)
 }
+
 
 
     
