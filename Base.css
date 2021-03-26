@@ -137,7 +137,9 @@ div.da-item.item-3HknzM.item-PXvHYJ {
 .headerPlaying-j0WQBV, .headerStreaming-2FjmGz, .topSectionPlaying-1J5E4n {
 	background-color: rgb(107,15,102);
 }
-
+.userPopout-3XzG_A {
+	    box-shadow: 0 2px 10px 0 rgba(39, 7, 38, 0.47), 0 0 0 1px rgba(151, 15, 195, 0.6);
+}
 
 /* Context menus & search menu */
 .theme-dark .searchResultsWrap-2DKFzt, .theme-dark .searchHeader-1l-wpR, .theme-dark .channelSeparator-1X1FuH .channelName-1QajIf, .theme-dark .searchResult-3pzFAB .searchResultMessage-2VxO12.hit-NLlWXA, .theme-dark .searchResult-3pzFAB.expanded-v2Szsz .searchResultMessage-2VxO12.hit-NLlWXA {
@@ -173,6 +175,13 @@ div.da-item.item-3HknzM.item-PXvHYJ {
 	background: rgba(60, 30, 90,0.12);
 }
 
+/* Connection Section */
+.theme-dark .container-2x5lvQ section {
+	background-color: rgba(47, 27, 49, 1);
+}
+.theme-dark .container-2x5lvQ .header-2C89wJ {
+	background-color: rgb(74, 33, 78);
+}
 /* Button opacity & coloring */
 .button-2vd_v_, .attachButtonPlus-rUdX-B {
 	opacity: 0.4;
