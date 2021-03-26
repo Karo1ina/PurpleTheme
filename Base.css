@@ -333,6 +333,10 @@ div[class*="chatContent"] > div[class*="messagesWrapper"] div[class*="cozyMessag
 	background-color: rgba(120,50,120,0.05) !important;
 }
 
+.form-2fGMdU {
+	margin-top: 0px;
+}
+
 /* Pinned messages */
 .theme-dark .messagesPopout-24nkyi {
 	background-color: rgba(125,75,125, 0.4)
