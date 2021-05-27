@@ -44,6 +44,7 @@
 	--text-link: rgb(255,125,255);
 	--scrollbar-auto-track: transparent;
 	--scrollbar-auto-thumb: rgba(107,14,102,0.2);
+	--purple-bg: rgba(47, 27, 49, 1);
 }
 
 
@@ -131,7 +132,7 @@ div.da-item.item-3HknzM.item-PXvHYJ {
 }
 
 .theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6, .body-3ND3kc {
-	background: rgba(47, 27, 49, 1);
+	background: var(--purple-bg);
 }
 .theme-dark .quickMessage-1yeL4E, .note-3kmerW textarea:focus {
 	background-color: rgb(20,0,20);
@@ -180,7 +181,7 @@ div.da-item.item-3HknzM.item-PXvHYJ {
 
 /* Connection Section */
 .theme-dark .container-2x5lvQ section {
-	background-color: rgba(47, 27, 49, 1);
+	background-color: var(--purple-bg);
 }
 .theme-dark .container-2x5lvQ .header-2C89wJ {
 	background-color: rgb(74, 33, 78);
@@ -566,7 +567,7 @@ background: rgba(0, 0, 0, 0.18) !important;
 }
 
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
-	background-color: rgba(47, 27, 49, 1);
+	background-color: var(--purple-bg);
 }
 
 .bd-addon-list .bd-addon-header {
@@ -584,7 +585,7 @@ background: rgba(0, 0, 0, 0.18) !important;
 
 /* Delete Message */
 .theme-dark .root-1gCeng, .theme-dark .footer-2gL1pp {
-	background-color: rgba(47, 27, 49, 1);
+	background-color: var(--purple-bg);
 }
 .theme-dark .message-2qRu38 {
 	background-color: #261729;
@@ -605,5 +606,26 @@ background: rgba(0, 0, 0, 0.18) !important;
 .activity-fViXj7 {
 	padding: 16px 16px 18px;
 }
+
+/* Upload Background */
+.theme-dark .uploadModal-2ifh8j, .theme-dark .footer-3mqk7D {
+	background-color: var(--purple-bg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
